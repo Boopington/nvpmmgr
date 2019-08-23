@@ -1,0 +1,15 @@
+C:\Users\Nicole\Desktop\nvpmmgr\NVPMManager\NVPMManager\bin\Debug\NVPMManager.exe.config
+C:\Users\Nicole\Desktop\nvpmmgr\NVPMManager\NVPMManager\bin\Debug\NVPMManager.exe
+C:\Users\Nicole\Desktop\nvpmmgr\NVPMManager\NVPMManager\bin\Debug\NVPMManager.pdb
+C:\Users\Nicole\Desktop\nvpmmgr\NVPMManager\NVPMManager\bin\Debug\Ionic.Zip.dll
+C:\Users\Nicole\Desktop\nvpmmgr\NVPMManager\NVPMManager\obj\Debug\NVPMManager.csprojAssemblyReference.cache
+C:\Users\Nicole\Desktop\nvpmmgr\NVPMManager\NVPMManager\obj\Debug\NVPMManager.FormDisclaimer.resources
+C:\Users\Nicole\Desktop\nvpmmgr\NVPMManager\NVPMManager\obj\Debug\NVPMManager.InstantApplyDisc.resources
+C:\Users\Nicole\Desktop\nvpmmgr\NVPMManager\NVPMManager\obj\Debug\NVPMManager.MainForm.resources
+C:\Users\Nicole\Desktop\nvpmmgr\NVPMManager\NVPMManager\obj\Debug\NVPMManager.Properties.Resources.resources
+C:\Users\Nicole\Desktop\nvpmmgr\NVPMManager\NVPMManager\obj\Debug\NVPMManager.Support.resources
+C:\Users\Nicole\Desktop\nvpmmgr\NVPMManager\NVPMManager\obj\Debug\NVPMManager.csproj.GenerateResource.cache
+C:\Users\Nicole\Desktop\nvpmmgr\NVPMManager\NVPMManager\obj\Debug\NVPMManager.csproj.CoreCompileInputs.cache
+C:\Users\Nicole\Desktop\nvpmmgr\NVPMManager\NVPMManager\obj\Debug\NVPMManager.csproj.CopyComplete
+C:\Users\Nicole\Desktop\nvpmmgr\NVPMManager\NVPMManager\obj\Debug\NVPMManager.exe
+C:\Users\Nicole\Desktop\nvpmmgr\NVPMManager\NVPMManager\obj\Debug\NVPMManager.pdb
